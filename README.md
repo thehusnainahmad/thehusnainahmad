@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @husnainahmadcheema
+- 👋 Hi, I’m @thehusnainahmad
 - 👀 I’m interested in Data Science and Cloud Solutions and Services
 - 🌱 I’m currently learning Data related fields
 - 💞️ I’m looking to collaborate on cloud and data related projects
